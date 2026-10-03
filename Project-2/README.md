@@ -1,14 +1,14 @@
- Python Expense Tracker
+# Python Expense Tracker
 
 This is my second project for the DecodeLabs Python Programming internship.
 
- About the Project
+## About the Project
 
 I created a simple Expense Tracker using Python. The program takes expense amounts from the user, adds them together, and displays the total amount spent.
 
 This project helped me practice working with numerical data and understand how an accumulator works in a program.
 
- Features
+## Features
 
 - Enter multiple expenses
 - Add each expense to the total
@@ -16,7 +16,7 @@ This project helped me practice working with numerical data and understand how a
 - Ask the user whether to add another expense
 - Exit the program after entering expenses
 
-Python Concepts Used
+## Python Concepts Used
 
 - Variables
 - `input()`
@@ -27,7 +27,7 @@ Python Concepts Used
 - Accumulator
 - User input
 
-How It Works
+## How It Works
 
 1. The total starts from `0`.
 2. The user enters an expense amount.
@@ -35,7 +35,7 @@ How It Works
 4. The program asks whether another expense should be added.
 5. After the user finishes, the total amount spent is displayed.
 
- Example
+## Example
 
 ```text
 ===== EXPENSE TRACKER =====
